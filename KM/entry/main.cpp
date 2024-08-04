@@ -17,7 +17,7 @@
 #include "../requests/virtual_allocate.cpp"
 #include "../impl/invoked.h"
 #include "hook/hook.hpp"
-
+ 
 /*
 Setup:
 
