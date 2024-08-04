@@ -1,6 +1,6 @@
 #ifndef DRIVER_HPP
 #define DRIVER_HPP
-#define device_name "\\\\.\\{0D8E94F0-2DAE-4083-A2E6-EFCADC3DE059}"
+#define device_name "\\\\.\\MicroTech32_c" // Change Handle Name!!!!!!!
 
 constexpr auto mm_copy_memory_physical = 0x1;
 constexpr auto mm_copy_memory_virtual = 0x2;
