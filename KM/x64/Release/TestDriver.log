@@ -1,0 +1,82 @@
+﻿  Building 'driver-hyde' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  main.cpp
+  get_module_base.cpp
+  read_physical_memory.cpp
+  signature_scanner.cpp
+  virtual_allocate.cpp
+  write_physical_memory.cpp
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(3,22): error C2653: 'driver': is not a class or namespace name
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(5,22): error C2653: 'driver': is not a class or namespace name
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(5,9): error C2065: 'uintptr_t': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(5,19): error C2146: syntax error: missing ')' before identifier 'address'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(3,53): error C2495: '__declspec(noinline)' can only be applied to function declarations or definitions
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(5,52): error C2495: '__declspec(noinline)' can only be applied to function declarations or definitions
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\write_physical_memory.cpp(3,46): error C2495: '__declspec(noinline)' can only be applied to function declarations or definitions
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(3,37): error C2146: syntax error: missing ';' before identifier 'virtual_allocate'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\write_physical_memory.cpp(3,34): error C2146: syntax error: missing ';' before identifier 'write_memory'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(3,54): error C2065: 'invoke_data': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(5,37): error C2146: syntax error: missing ';' before identifier 'get_module_base'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\write_physical_memory.cpp(3,48): error C2065: 'invoke_data': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(5,54): error C2065: 'invoke_data': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(9,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(3,67): error C2882: 'request': illegal use of namespace identifier in expression
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(5,67): error C2882: 'request': illegal use of namespace identifier in expression
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\write_physical_memory.cpp(3,61): error C2882: 'request': illegal use of namespace identifier in expression
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(9,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(16,9): error C2065: 'uintptr_t': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(16,19): error C2146: syntax error: missing ')' before identifier 'address'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(20,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(4,2): error C2059: syntax error: '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(20,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\write_physical_memory.cpp(4,5): error C2059: syntax error: '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(6,2): error C2059: syntax error: '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\write_physical_memory.cpp(4,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(6,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(4,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\write_physical_memory.cpp(4,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(27,28): error C2065: 'uintptr_t': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\get_module_base.cpp(6,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\virtual_allocate.cpp(4,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(27,38): error C2146: syntax error: missing ')' before identifier 'address'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(27,48): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(27,48): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(43,9): error C2065: 'uintptr_t': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(43,19): error C2146: syntax error: missing ')' before identifier 'directory_base'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(44,42): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(44,42): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(94,20): error C2065: 'INT32': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(94,26): error C2146: syntax error: missing ')' before identifier 'g'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(95,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(95,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(104,29): error C2065: 'invoke_data': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(104,42): error C2882: 'request': illegal use of namespace identifier in expression
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(104,52): error C2988: unrecognizable template declaration/definition
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(104,52): error C2143: syntax error: missing ';' before '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(104,52): error C2059: syntax error: '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(104,55): error C2653: 'driver': is not a class or namespace name
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(105,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(105,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(131,26): error C2065: 'invoke_data': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(131,39): error C2882: 'request': illegal use of namespace identifier in expression
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(131,49): error C2988: unrecognizable template declaration/definition
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(131,49): error C2143: syntax error: missing ';' before '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(131,49): error C2059: syntax error: '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(131,52): error C2653: 'driver': is not a class or namespace name
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(132,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(132,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(184,19): error C2065: 'invoke_data': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(184,32): error C2882: 'request': illegal use of namespace identifier in expression
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(184,42): error C2988: unrecognizable template declaration/definition
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(184,42): error C2143: syntax error: missing ';' before '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(184,42): error C2059: syntax error: '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(184,45): error C2653: 'driver': is not a class or namespace name
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(185,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(185,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(220,23): error C2065: 'invoke_data': undeclared identifier
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(220,36): error C2882: 'request': illegal use of namespace identifier in expression
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(220,46): error C2988: unrecognizable template declaration/definition
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(220,46): error C2143: syntax error: missing ';' before '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(220,46): error C2059: syntax error: '->'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(220,49): error C2653: 'driver': is not a class or namespace name
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(221,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-hyde\requests\read_physical_memory.cpp(221,5): error C2447: '{': missing function header (old-style formal list?)

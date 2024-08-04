@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="requests\signature_scanner.cpp" />
+    <ClCompile Include="processhyde\Hide.cpp" />
+    <ClCompile Include="processhyde\Offset.cpp" />
+    <ClCompile Include="entry\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="impl">
+      <UniqueIdentifier>{39e0965b-fedc-4e0a-9b25-97dcc9d27474}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="impl\scanner.h" />
+    <ClInclude Include="impl\imports.h" />
+    <ClInclude Include="impl\crt.h" />
+    <ClInclude Include="kernel\structures.hpp" />
+    <ClInclude Include="kernel\xor.h" />
+    <ClInclude Include="impl\modules.h" />
+    <ClInclude Include="impl\invoked.h" />
+    <ClInclude Include="impl\communication\interface.h" />
+    <ClInclude Include="requests\get_module_base.cpp" />
+    <ClInclude Include="requests\read_physical_memory.cpp" />
+    <ClInclude Include="requests\write_physical_memory.cpp" />
+    <ClInclude Include="requests\virtual_allocate.cpp" />
+    <ClInclude Include="processhyde\Hide.h" />
+    <ClInclude Include="processhyde\Offset.h" />
+    <ClInclude Include="kernel\imports.h" />
+    <ClInclude Include="kernel\kernelTools.h" />
+    <ClInclude Include="kernel\log.h" />
+    <ClInclude Include="kernel\struct.h" />
+    <ClInclude Include="entry\IoCreateDriver\CreateDriver.h" />
+    <ClInclude Include="entry\IoCreateDriver\definitions.h" />
+    <ClInclude Include="clean\clean.hpp" />
+    <ClInclude Include="entry\hook\hook.hpp" />
+  </ItemGroup>
+</Project>

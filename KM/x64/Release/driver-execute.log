@@ -1,0 +1,9 @@
+﻿C:\Users\dnfki\Desktop\BEKernelUpdated\KM\driver-execute.vcxproj(99,5): warning MSB4011: "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\10.0.26100.0\WindowsDriver.Shared.props (364,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\dnfki\Desktop\BEKernelUpdated\KM\driver-execute.vcxproj(218,5): warning MSB4011: "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\10.0.26100.0\WindowsDriver.common.targets (2008,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'driver-execute' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  main.cpp
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Finished generating code
+  driver-execute.vcxproj -> C:\Users\dnfki\Desktop\BEKernelUpdated\x64\Release\DriverKL.sys
+  Driver is 'Universal'.

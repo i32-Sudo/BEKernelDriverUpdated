@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="impl\include.hpp" />
+    <ClInclude Include="impl\imports.hpp" />
+    <ClInclude Include="impl\driver\driver.hpp" />
+    <ClInclude Include="imports.h" />
+    <ClInclude Include="utils\utils.hpp" />
+    <ClInclude Include="impl\hash.hpp" />
+    <ClInclude Include="Mapper.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="impl\driver\asm\direct.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="entrypoint.cpp" />
+    <ClCompile Include="impl\driver\driver.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="impl\zenith_ctx\zenith_ctx.xaml" />
+  </ItemGroup>
+</Project>

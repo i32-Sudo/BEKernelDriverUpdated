@@ -1,0 +1,312 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\\) contains files shared from another project (cs2.vcxproj, driver-communication.vcxproj, usermode.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  entrypoint.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58160,1):
+  see previous definition of 'DXGI_STATUS_OCCLUDED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58169,1):
+  see previous definition of 'DXGI_STATUS_CLIPPED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58178,1):
+  see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58187,1):
+  see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58196,1):
+  see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58205,1):
+  see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58214,1):
+  see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58229,1):
+  see previous definition of 'DXGI_ERROR_INVALID_CALL'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58238,1):
+  see previous definition of 'DXGI_ERROR_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58247,1):
+  see previous definition of 'DXGI_ERROR_MORE_DATA'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58256,1):
+  see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58265,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58274,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58284,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58293,1):
+  see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58303,1):
+  see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58312,1):
+  see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58322,1):
+  see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58331,1):
+  see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58340,1):
+  see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58350,1):
+  see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58359,1):
+  see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58665,1):
+  see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58674,1):
+  see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58684,1):
+  see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58693,1):
+  see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58641,1):
+  see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58650,1):
+  see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(46,43): warning C4459: declaration of 'window' hides global declaration
+  (compiling source file 'entrypoint.cpp')
+  C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(33,10):
+  see declaration of 'Overlay::window'
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(326,24): warning C4459: declaration of 'hInstance' hides global declaration
+  (compiling source file 'entrypoint.cpp')
+  C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(28,15):
+  see declaration of 'Overlay::hInstance'
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(326,39): warning C4459: declaration of 'nCmdShow' hides global declaration
+  (compiling source file 'entrypoint.cpp')
+  C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(29,9):
+  see declaration of 'Overlay::nCmdShow'
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(326,56): warning C4459: declaration of 'drawLoop' hides global declaration
+  (compiling source file 'entrypoint.cpp')
+  C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\externals\overlay.hpp(30,12):
+  see declaration of 'Overlay::drawLoop'
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\impl\driver\driver.hpp(141,9): warning C4189: 'result': local variable is initialized but not referenced
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\core\offsets.h(97,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\core\Value.h(14,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\core\Value.h(15,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\core\sdk.hpp(260,27): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\core\sdk.hpp(265,27): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\core\sdk.hpp(296,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\drawH.hpp(5,67): warning C4100: 'bottom': unreferenced formal parameter
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\drawH.hpp(5,56): warning C4100: 'top': unreferenced formal parameter
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(309,28): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(331,28): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(328,19): warning C4189: 'worldptr': local variable is initialized but not referenced
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(361,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(421,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(507,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(507,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(518,13): warning C4189: 'colors': local variable is initialized but not referenced
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(622,76): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(634,76): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(649,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(656,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(682,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(705,74): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(712,74): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(721,74): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(728,74): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(738,77): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(754,76): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(772,76): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(588,18): warning C4189: 'io': local variable is initialized but not referenced
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(600,21): warning C4189: 'drawList': local variable is initialized but not referenced
+  (compiling source file 'entrypoint.cpp')
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\entrypoint.cpp(179,27): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\entrypoint.cpp(188,7): warning C4459: declaration of 'base_address' hides global declaration
+  C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\draw.hpp(250,11):
+  see declaration of 'base_address'
+  
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\entrypoint.cpp(187,7): warning C4189: 'ret': local variable is initialized but not referenced
+C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\impl\driver\driver.hpp(158,16): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'entrypoint.cpp')
+  C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\impl\driver\driver.hpp(158,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\core\offsets.h(106,19):
+  	see reference to function template instantiation 't driver::communicate_t::read<int>(const uintptr_t)' being compiled
+          with
+          [
+              t=int
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'entrypoint.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\fonts.hpp(20063,23):
+  	see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		C:\Users\dnfki\Desktop\NewJmpDriver\driver-exec\menu\fonts.hpp(20063,23):
+  		see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'saveFont'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2600,17):
+  	see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2756,18):
+  	see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  208 of 4459 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    171 functions were new in current compilation
+    99 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  driver-communication.vcxproj -> C:\Users\dnfki\Desktop\NewJmpDriver\x64\Release\pcom5.exe

@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\\) contains files shared from another project (cs2.vcxproj, DayZ.vcxproj, driver-communication.vcxproj, usermode.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling impl\driver\asm\direct.asm...
+  entrypoint.cpp
+  driver.cpp
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.hpp(141,9): warning C4189: 'result': local variable is initialized but not referenced
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.cpp(45,14): warning C4459: declaration of 'request' hides global declaration
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.cpp(114,16): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.cpp(195,16): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.cpp(211,7): warning C4189: 'result': local variable is initialized but not referenced
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.cpp(240,18): warning C4458: declaration of 'dtb' hides class member
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.hpp(158,16): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\impl\driver\driver.hpp(141,9): warning C4189: 'result': local variable is initialized but not referenced
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\entrypoint.cpp(19,27): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\entrypoint.cpp(5,64): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\Users\dnfki\Desktop\BEKernelUpdated\UM\entrypoint.cpp(5,32): warning C4100: 'hInstance': unreferenced formal parameter
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 95 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  um.vcxproj -> C:\Users\dnfki\Desktop\BEKernelUpdated\x64\Release\pcom5.exe
