@@ -21,4 +21,4 @@ Setup:
 - use my PdFwKrnl Mapper [github.com/i32-Sudo] or another mapper (DO NOT MANUAL MAP OR USE KDMAPPER, THIS IS DTC)
 ```
 # Contact
-Discord Username; bloodieys
+Discord Username; `s.n.o.w.l.e.o.p.a.r.d`
